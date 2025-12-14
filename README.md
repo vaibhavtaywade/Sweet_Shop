@@ -1,6 +1,7 @@
 # Sweet Shop Management System
 
 A full-stack sweet shop management application built with MongoDB, Express, React, and Node.js (MERN stack).
+Deployed: https://genuine-nasturtium-04ef11.netlify.app/
 
 ## Features
 
