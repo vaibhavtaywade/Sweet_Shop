@@ -36,19 +36,6 @@ A full-stack sweet shop management application built with MongoDB, Express, Reac
 ### 1. Setup MongoDB
 
 Make sure MongoDB is installed and running on your system:
-
-\`\`\`bash
-# Start MongoDB service
-# On macOS with Homebrew:
-brew services start mongodb-community
-
-# On Linux:
-sudo systemctl start mongod
-
-# On Windows:
-# MongoDB should start automatically as a service
-\`\`\`
-
 ### 2. Install Dependencies
 
 \`\`\`bash
