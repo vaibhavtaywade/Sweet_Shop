@@ -1,7 +1,7 @@
 import axios from "axios"
 import type { Sweet, AuthResponse } from "../types"
 
-const API_URL = import.meta.env.VITE_API_URL || "https://sweet-shop-3-kf10.onrender.com"
+const API_URL = import.meta.env.VITE_API_URL || "https://sweet-shop-3-v1b1.onrender.com"
 
 const api = axios.create({
   baseURL: API_URL,
