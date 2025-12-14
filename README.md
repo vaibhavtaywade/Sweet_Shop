@@ -160,25 +160,18 @@ sweet-shop/
 
 ## My AI Usage
 
-**AI Tools Used:** v0 by Vercel
+**AI Tools Used:** 
 
 **How I Used Them:**
-- Used v0 to generate the complete project structure including backend API with Express and MongoDB, and frontend with React and TypeScript
-- Generated boilerplate code for authentication middleware, controllers, and models
-- Created comprehensive test suites following TDD principles
-- Designed the responsive UI components with Tailwind CSS
-- Generated API integration services and context providers
+- Used v0 to generate the complete project structure of frontend with React and TypeScript
+- Generated the ui and for integration
+
 
 **Reflection:**
 Using AI significantly accelerated the development process, especially for:
 - Setting up the initial project structure with best practices
-- Implementing secure JWT authentication patterns
 - Creating reusable React components with TypeScript
 - Writing comprehensive test cases covering edge cases
 - Establishing consistent code patterns across the application
 
-The AI helped ensure adherence to SOLID principles and modern development practices while allowing me to focus on business logic and user experience optimization.
 
-## License
-
-MIT
