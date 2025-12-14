@@ -1,7 +1,5 @@
 "use client"
 
-import  from "../frontend/src/main"
-
 export default function SyntheticV0PageForDeployment() {
-  return < />
+  return <div>Welcome to Sweet Shop!</div>
 }
